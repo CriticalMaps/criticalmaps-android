@@ -28,6 +28,7 @@ Yep! Here: https://github.com/CriticalMaps/criticalmaps-ios
 *   If you can code: Just go ahead and send us a pull request. If you're planning a bigger feature, it might be a good idea to open an [issue](https://github.com/criticalmaps/criticalmaps-android/issues) before starting in case someone is working on something similar.
 *   If you find bugs: File them in the [github issue tracking system](https://github.com/criticalmaps/criticalmaps-android/issues).
 *   If you find translation errors or want to add a new language: Head over to our [Transifex site](https://www.transifex.com/criticalmaps/criticalmaps/) and join a translation team.
+*   To get acquainted with project structure please refer to [model, class and other diagrams](https://sourcespy.com/github/criticalmapscriticalmapsandroid).
 *   If you have moneyz left to burn: Help us finance the server.
 
 ## Can i haz more information?
